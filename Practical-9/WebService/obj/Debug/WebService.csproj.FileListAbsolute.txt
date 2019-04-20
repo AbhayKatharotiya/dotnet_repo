@@ -1,4 +1,0 @@
-E:\vs project\WebService\WebService\bin\WebService.dll
-E:\vs project\WebService\WebService\bin\WebService.pdb
-E:\vs project\WebService\WebService\obj\Debug\WebService.dll
-E:\vs project\WebService\WebService\obj\Debug\WebService.pdb
